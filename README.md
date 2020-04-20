@@ -8,6 +8,7 @@ or alphabetically depending on the data it contains. Data comes from an external
 The data is automatically loaded sorted by ID.
 The first three headers sort the data of all companies, while the next three head sort within the currently displayed page.
 The project contains paging.
+
 ----------------------------------------
 
 ## Technologies
